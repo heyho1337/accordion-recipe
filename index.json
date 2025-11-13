@@ -8,11 +8,11 @@
     "branch": "main",
     "is_contrib": false,
     "_links": {
-        "repository": "github.com/heyho1337/accordion-recipe",
-        "origin_template": "{package}:{version}@github.com/heyho1337/accordion-recipe:main",
-        "recipe_template": "https://raw.githubaccordioncontent.com/heyho1337/accordion-recipe/main/{package_dotted}.{version}.json",
+        "repository": "https://github.com/heyho1337/accordion-recipe",
+        "origin_template": "{package}:{version}@github.com/heyho1337/accordion-recipe:master",
+        "recipe_template": "https://raw.githubusercontent.com/heyho1337/accordion-recipe/master/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubaccordioncontent.com/heyho1337/accordion-recipe/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/heyho1337/accordion-recipe/master/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }
