@@ -5,7 +5,7 @@
     },
     "recipe-conflicts": [],
     "versions": [],
-    "branch": "main",
+    "branch": "master",
     "is_contrib": false,
     "_links": {
         "repository": "https://github.com/heyho1337/accordion-recipe",
