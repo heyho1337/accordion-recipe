@@ -4,7 +4,6 @@
             "manifest": {
                 "copy-from-package": {
                     "src/": "src/",
-                    "templates/@accordion/": "templates/bundles/heyhodesigns/accordion/"
                 }
             },
             "ref": "e4eabf5aed72e24fca72e12614554081548c5d3f"
